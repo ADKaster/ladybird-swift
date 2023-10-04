@@ -1,0 +1,8 @@
+module lagom [system] {
+    requires cplusplus
+
+    module webview {
+         header "LagomWebView.h"
+         export *
+    }
+}
