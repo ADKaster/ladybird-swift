@@ -3,4 +3,6 @@ Build
 .build
 .clangd
 .vscode
+third_party
+!third_party/.gitkeep
 
